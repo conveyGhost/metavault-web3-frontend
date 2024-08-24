@@ -1,12 +1,14 @@
-# Expopulus Frontend private work
+# Speed Throne Website Frontend private work
 
-Privately developed the Expopulus platform frontend, featuring a versatile card system with customizable rarity, health, attack, and abilities, inspired by traditional card games. The interface, designed in Figma, is built with React.js and TypeScript, integrates with GeckoTerminal APIs, and leverages Ethereum blockchain for Web 3.0 functionality.
+Contributed to the development of the Speed Throne website for a visually stunning PC game that utilizes Unreal Engine 5’s advanced features, including Nanite for high-detail graphics, Lumen for dynamic lighting, and Chaos for realistic vehicle physics. 
+As a frontend developer, I built and optimized the site using Next.js to provide an engaging and seamless user experience. 
+The project also integrates with the Cardano blockchain to enhance the game's online ecosystem. 
+Explore the website to experience the cutting-edge visuals and technology of Speed Throne.
 
-![Ex-Polulus](Ex-Populus.png)
+![Speed-Throne](Speed-Throne.png)
 
 **Technologies Used**:
-- **Design**: Figma, Photoshop, Adobe Illustrators
-- **Frontend**: React.js, TypeScript
-- **Blockchain**: Ethereum
+- **Frontend**: Next.js, Tailwind.css, TypeScript
+- **Blockchain**: Cardano, Ethereum
 
-**Website**: [https://expopulus.com/](https://expopulus.com/)
+**Website**: [https://speedthrone.io/](https://speedthrone.io/)
