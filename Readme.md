@@ -9,4 +9,4 @@ Privately developed the Expopulus platform frontend, featuring a versatile card 
 - **Frontend**: React.js, TypeScript
 - **Blockchain**: Ethereum
 
-**Website**: [https://seigma.xyz/](https://seigma.xyz/)
+**Website**: [https://expopulus.com/](https://expopulus.com/)
