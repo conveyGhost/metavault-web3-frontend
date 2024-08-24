@@ -1,14 +1,12 @@
-# Speed Throne Website Frontend private work
+# C3 Frontend work
 
-Contributed to the development of the Speed Throne website for a visually stunning PC game that utilizes Unreal Engine 5’s advanced features, including Nanite for high-detail graphics, Lumen for dynamic lighting, and Chaos for realistic vehicle physics. 
-As a frontend developer, I built and optimized the site using Next.js to provide an engaging and seamless user experience. 
-The project also integrates with the Cardano blockchain to enhance the game's online ecosystem. 
-Explore the website to experience the cutting-edge visuals and technology of Speed Throne.
+Developed the frontend for C3, the world’s first automated system in the Voluntary Carbon Market (VCM), leveraging Next.js and Web3.0 technologies. C3 is built on the Polygon blockchain and bridges legacy carbon markets with decentralized finance (DeFi) to enhance transparency, liquidity, and accessibility of carbon credits. The project integrates advanced DeFi mechanics and automated carbon bridging technology to tokenize carbon credits, creating a more transparent and efficient market. My contributions focused on building a user-friendly interface that supports C3's innovative carbon pools and governance mechanisms.
 
-![Speed-Throne](Speed-Throne.png)
+![C3](C3.png)
 
 **Technologies Used**:
-- **Frontend**: Next.js, Tailwind.css, TypeScript
-- **Blockchain**: Cardano, Ethereum
+- **Frontend**: Next.js, Tailwind CSS, TypeScript
+- **Blockchain**: Polygon
+- **Web3 Integration**: Web3.js, Ether.js
 
-**Website**: [https://speedthrone.io/](https://speedthrone.io/)
+**Website**: [https://www.c3.app/](https://www.c3.app/)
