@@ -1,4 +1,4 @@
-# SEIGMA AI private work
+# Expopulus Frontend private work
 
 Privately developed the Expopulus platform frontend, featuring a versatile card system with customizable rarity, health, attack, and abilities, inspired by traditional card games. The interface, designed in Figma, is built with React.js and TypeScript, integrates with GeckoTerminal APIs, and leverages Ethereum blockchain for Web 3.0 functionality.
 
